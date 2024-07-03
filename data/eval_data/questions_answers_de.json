@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Was ist der Nennstrom der XBO 2500 W/HS XL OFR Lampe?",
+        "answer": "Der Nennstrom der XBO 2500 W/HS XL OFR Lampe beträgt 90,00 A[0].",
+        "citations": [
+            "[0] ZMP_1007189_XBO_2500_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Wie lang ist die XBO 2500 W/HS XL OFR Lampe?",
+        "answer": "Die gesamte Länge der XBO 2500 W/HS XL OFR Lampe beträgt 342 mm[0].",
+        "citations": [
+            "[0] ZMP_1007189_XBO_2500_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 3000 W/H XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 3000 W/H XL OFR Lampe sind wie folgt:\n\n- **Nennstrom**: 105 A\n- **Stromsteuerbereich**: 70…110 A\n- **Nennleistung**: 3000,00 W\n- **Nennspannung**: 28,0 V[0].",
+        "citations": [
+            "[0] ZMP_1007191_XBO_3000_W_H_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Lebensdauer der XBO 3000 W/H XL OFR Lampe?",
+        "answer": "Die Lebensdauer der XBO 3000 W/H XL OFR Lampe beträgt 2200 Stunden[0].",
+        "citations": [
+            "[0] ZMP_1007191_XBO_3000_W_H_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 3000 W/HS XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 3000 W/HS XL OFR Lampe sind wie folgt:\n\n- **Nennstrom:** 100 A\n- **Stromsteuerbereich:** 70…110 A\n- **Nennleistung:** 3000 W\n- **Nennspannung:** 29,0 V\n\nDiese Attribute definieren die grundlegenden elektrischen Anforderungen und Betriebsbereiche der Lampe[0].",
+        "citations": [
+            "[0] ZMP_1007193_XBO_3000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Nennleistung der XBO 3000 W/HS XL OFR Lampe?",
+        "answer": "Die Nennleistung der XBO 3000 W/HS XL OFR Lampe beträgt 3000 W[0].",
+        "citations": [
+            "[0] ZMP_1007193_XBO_3000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die physikalischen Abmessungen der XBO 3000 W/HTP XL OFR Lampe?",
+        "answer": "Die physikalischen Abmessungen der XBO 3000 W/HTP XL OFR Lampe sind:\n\n- Durchmesser: 60,0 mm\n- Gesamtlänge: 405,0 mm\n- Länge mit Sockel jedoch ohne Sockelstift: 357,0 mm\n- Produktgewicht: 560,00 g[0].",
+        "citations": [
+            "[0] ZMP_1007195_XBO_3000_W_HTP_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Farbtemperatur der XBO 3000 W/HTP XL OFR Lampe?",
+        "answer": "Die Farbtemperatur der XBO 3000 W/HTP XL OFR Lampe beträgt ca. 6.000 K (Tageslicht)[0].",
+        "citations": [
+            "[0] ZMP_1007195_XBO_3000_W_HTP_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 4000 W/HSA OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 4000 W/HSA OFR Lampe sind wie folgt:\n\n- **Nennstrom:** 135,00 A\n- **Stromsteuerbereich:** 80…150 A\n- **Nennleistung:** 4000,00 W\n- **Nennspannung:** 29,0 V\n\nWeitere technische Details finden Sie im Produktdatenblatt[0].",
+        "citations": [
+            "[0] ZMP_55877_XBO_4000_W_HSA_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die maximal zulässige Temperatur für die XBO 4000 W/HSA OFR Lampe?",
+        "answer": "Die maximal zulässige Umgebungstemperatur für die XBO 4000 W/HSA OFR Lampe beträgt 230 °C[0].",
+        "citations": [
+            "[0] ZMP_55877_XBO_4000_W_HSA_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die typischen Anwendungen für die XBO 4000 W/HS XL OFR Lampe?",
+        "answer": "Die typischen Anwendungen für die XBO 4000 W/HS XL OFR Lampe umfassen:\n\n- Klassische 35-mm-Filmprojektion\n- Digitale Film- und Videoprojektion\n- Architektur- und Effektlicht (bekannt als „Light Finger“)\n- Sonnensimulation[0].",
+        "citations": [
+            "[0] ZMP_1007199_XBO_4000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Kann die XBO 4000 W/HS XL OFR Lampe für die architektonische Beleuchtung verwendet werden?",
+        "answer": "Ja, die XBO 4000 W/HS XL OFR Lampe kann für die architektonische Beleuchtung verwendet werden. Sie wird spezifisch in den Anwendungsgebieten für Architektur- und Effektlicht („Light Finger“) angegeben[0].",
+        "citations": [
+            "[0] ZMP_1007199_XBO_4000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die Wartungsanforderungen für die XBO 4000 W/HTP XL OFR Lampe?",
+        "answer": "Die Wartungsanforderungen für die XBO 4000 W/HTP XL OFR Lampe umfassen folgende Punkte:\n\n1. **Kühlung**: Es wird eine forcierte Kühlung benötigt, das heißt, die Lampe muss aktiv gekühlt werden, um eine Überhitzung zu vermeiden.\n2. **Brennstellung**: Die Lampe kann sowohl vertikal als auch horizontal betrieben werden. Bei einer vertikalen Brennlage sollte die Anode (+) oben sein[0].\n3. **Lebensdauer**: Die erwartete Lebensdauer der Lampe beträgt 1500 Stunden[0].\n\nDiese Anforderungen stellen sicher, dass die Lampe effizient und sicher betrieben wird.",
+        "citations": [
+            "[0] ZMP_1007197_XBO_4000_W_HTP_XL_OFR.pdf",
+            "[1] ZMP_1007197_XBO_4000_W_HTP_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Wie sollte die XBO 4000 W/HTP XL OFR Lampe gelagert werden?",
+        "answer": "Die XBO 4000 W/HTP XL OFR Lampe sollte sicher und mit Vorsicht gelagert werden. Achten Sie während der Lagerung auf folgende Punkte:\n\n1. **Temperaturen beachten**: Die maximale zulässige Umgebungstemperatur für die Lampe liegt bei 230 °C.\n2. **Spezialverpackung verwenden**: Lagern Sie die Lampe immer in ihrer Originalverpackung, um Brüche oder Schäden zu vermeiden.\n3. **Positionierung**: Stellen Sie sicher, dass die Lampe in einer sicheren Position gelagert wird, um mechanische Belastungen zu vermeiden.\n\nGenauere Lagerbedingungen werden in den Dokumenten nicht detailliert beschrieben, aber das oben genannte sind allgemeine Richtlinien, die für die meisten empfindlichen technologischen Produkte gelten[0].",
+        "citations": [
+            "[0] ZMP_1007197_XBO_4000_W_HTP_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 4500 W/HS XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 4500 W/HS XL OFR Lampe sind wie folgt:\n\n- **Nennstrom:** 135 A\n- **Stromsteuerbereich:** 80…150 A\n- **Nennleistung:** 4500 W\n- **Nennspannung:** 32,0 V\n\nWeitere Details:\n- **Max. zulässige Umgebungstemperatur:** 230 °C\n- **Lebensdauer:** 1400 Stunden[0].",
+        "citations": [
+            "[0] ZMP_1007201_XBO_4500_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Nennspannung der XBO 4500 W/HS XL OFR Lampe?",
+        "answer": "Die Nennspannung der XBO 4500 W/HS XL OFR Lampe beträgt 32,0 V[0].",
+        "citations": [
+            "[0] ZMP_1007201_XBO_4500_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Farbtemperatur der XBO 5000 W/H XL OFR Lampe?",
+        "answer": "Die Farbtemperatur der XBO 5000 W/H XL OFR Lampe beträgt etwa 6.000 K (Daylight)[0].",
+        "citations": [
+            "[0] ZMP_1007203_XBO_5000_W_H_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die physikalischen Abmessungen der XBO 5000 W/H XL OFR Lampe?",
+        "answer": "Die physikalischen Abmessungen der XBO 5000 W/H XL OFR Lampe sind wie folgt:\n\n- Durchmesser: 70,0 mm\n- Länge: 433,0 mm\n- Länge mit Sockel jedoch ohne Sockelstift: 382,0 mm\n- Abstand Lichtschwerpunkt (LCL): 167,5 mm\n- Kabel-/Leitungslänge, Eingangsseite: 560 mm\n- Elektrodenabstand kalt: 7,5 mm\n- Produktgewicht: 1028,0 g\n\nDiese Informationen wurden aus dem bereitgestellten Dokument entnommen[0].",
+        "citations": [
+            "[0] ZMP_1007203_XBO_5000_W_H_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 6000 W/HS XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 6000 W/HS XL OFR Lampe sind wie folgt:\n\n- **Nennstrom**: 160 A\n- **Stromsteuerbereich**: 110…165 A\n- **Nennleistung**: 6000,00 W\n- **Nennspannung**: 37,0 V[0].",
+        "citations": [
+            "[0] ZMP_1007207_XBO_6000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Lebensdauer der XBO 6000 W/HS XL OFR Lampe?",
+        "answer": "Die Lebensdauer der XBO 6000 W/HS XL OFR Lampe beträgt 750 Stunden[0].",
+        "citations": [
+            "[0] ZMP_1007207_XBO_6000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 7000 W/HS XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 7000 W/HS XL OFR Lampe sind wie folgt:\n\n- **Nennstrom**: 160 A\n- **Stromsteuerbereich**: 110…165 A\n- **Nennleistung**: 7000 W\n- **Nennspannung**: 42,0 V\n\nQuelle: [0].",
+        "citations": [
+            "[0] ZMP_1007209_XBO_7000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Nennleistung der XBO 7000 W/HS XL OFR Lampe?",
+        "answer": "Die Nennleistung der XBO 7000 W/HS XL OFR Lampe beträgt 7000 W[0].",
+        "citations": [
+            "[0] ZMP_1007209_XBO_7000_W_HS_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 10000 W/HS OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 10000 W/HS OFR Lampe sind wie folgt:\n\n- **Nennstrom**: 195,00 A\n- **Stromsteuerbereich**: 160…200 A\n- **Nennleistung**: 10000,00 W\n- **Nennspannung**: 50,0 V\n\nDiese Daten finden sich auf Seite 1 des Produktdatenblatts[0].",
+        "citations": [
+            "[0] ZMP_55851_XBO_10000_W_HS_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Farbtemperatur der XBO 10000 W/HS OFR Lampe?",
+        "answer": "Die Farbtemperatur der **XBO 10000 W/HS OFR** Lampe beträgt ca. 6000 K (Tageslicht)[0].",
+        "citations": [
+            "[0] ZMP_55851_XBO_10000_W_HS_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 2000 W/HTP XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 2000 W/HTP XL OFR Lampe lauten:\n\n- **Nennstrom:** 70,00 A\n- **Stromsteuerbereich:** 50…85 A\n- **Nennleistung:** 2000,00 W\n- **Nennspannung:** 28,0 V[0].",
+        "citations": [
+            "[0] ZMP_1007187_XBO_2000_W_HTP_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Nennspannung der XBO 2000 W/HTP XL OFR Lampe?",
+        "answer": "Die Nennspannung der XBO 2000 W/HTP XL OFR Lampe beträgt 28,0 V[0].",
+        "citations": [
+            "[0] ZMP_1007187_XBO_2000_W_HTP_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die physikalischen Abmessungen der XBO 2000 W/H XL OFR Lampe?",
+        "answer": "Die physikalischen Abmessungen der XBO 2000 W/H XL OFR Lampe sind wie folgt:\n\n- **Durchmesser:** 52,0 mm\n- **Länge:** 370,0 mm\n- **Länge mit Sockel jedoch ohne Sockelstift:** 322,0 mm\n- **Abstand Lichtschwerpunkt (LCL):** 142,5 mm\n- **Kabellänge:** 300,0 mm\n- **Produktgewicht:** 534,0 g[0].",
+        "citations": [
+            "[0] ZMP_1007184_XBO_2000_W_H_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Lebensdauer der XBO 2000 W/H XL OFR Lampe?",
+        "answer": "Die Lebensdauer der XBO 2000 W/H XL OFR Lampe beträgt 3500 Stunden[0].",
+        "citations": [
+            "[0] ZMP_1007184_XBO_2000_W_H_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 2000 W/HS OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 2000 W/HS OFR Lampe sind wie folgt:\n\n- **Nennstrom**: 80 A\n- **Stromsteuerbereich**: 50–85 A\n- **Nennleistung**: 2000 W\n- **Nennspannung**: 24,0 V\n\nDiese Informationen stammen aus dem Produktdatenblatt der betreffenden Lampe[0].",
+        "citations": [
+            "[0] ZMP_1200637_XBO_2000_W_HS_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Farbtemperatur der XBO 2000 W/HS OFR Lampe?",
+        "answer": "Die Farbtemperatur der XBO 2000 W/HS OFR Lampe beträgt ca. **6.000 K**[0].",
+        "citations": [
+            "[0] ZMP_1200637_XBO_2000_W_HS_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 1600 W/HSC XL OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 1600 W/HSC XL OFR Lampe sind wie folgt:\n\n- **Nennstrom:** 65,00 A\n- **Stromsteuerbereich:** 50…70 A\n- **Nennleistung:** 1600,00 W\n- **Nennspannung:** 23,0 V\n- **Lebensdauer:** 2500 Stunden\n- **Max. zulässige Umgebungstemperatur der Quetschung:** 230 °C\n\nWeitere Informationen umfassen:\n- **Sockel Anode (Normbezeichnung):** SK27/50\n- **Sockel Kathode (Normbezeichnung):** SFcX27-8\n\nZusätzliche Hinweise zur Verwendung:\n- **Kühlung:** Forciert\n- **Brennstellung:** s20/p20 (bei vertikaler Brennlage: Anode (+) oben)\n\nDiese Daten sind im Produktdatenblatt der Lampe verzeichnet[0].",
+        "citations": [
+            "[0] ZMP_1007177_XBO_1600_W_HSC_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist der Nennstrom der XBO 1600 W/HSC XL OFR Lampe?",
+        "answer": "Der Nennstrom der XBO 1600 W/HSC XL OFR Lampe beträgt 65,00 A[0].",
+        "citations": [
+            "[0] ZMP_1007177_XBO_1600_W_HSC_XL_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die physikalischen Abmessungen der XBO 1000 W/HTP OFR Lampe?",
+        "answer": "Die physikalischen Abmessungen der XBO 1000 W/HTP OFR Lampe sind wie folgt:\n\n- Durchmesser: 46,0 mm\n- Gesamtlänge: 330,0 mm\n- Länge mit Sockel jedoch ohne Sockelstift: 277,0 mm\n- Abstand Lichtschwerpunkt (LCL): 123,0 mm\n- Elektrodenabstand kalt: 4,8 mm\n- Produktgewicht: 331,0 g[0].",
+        "citations": [
+            "[0] ZMP_55854_XBO_1000_W_HTP_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Nennspannung der XBO 1000 W/HTP OFR Lampe?",
+        "answer": "Die Nennspannung der XBO 1000 W/HTP OFR Lampe beträgt 21,0 V[0].",
+        "citations": [
+            "[0] ZMP_55854_XBO_1000_W_HTP_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 1000 W/HSC OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 1000 W/HSC OFR Lampe sind wie folgt:\n\n- **Nennstrom:** 50 A\n- **Stromsteuerbereich:** 30…55 A\n- **Nennleistung:** 1000 W\n- **Nennspannung:** 19,0 V[0].",
+        "citations": [
+            "[0] ZMP_55853_XBO_1000_W_HSC_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Farbtemperatur der XBO 1000 W/HSC OFR Lampe?",
+        "answer": "Die Farbtemperatur der XBO 1000 W/HSC OFR Lampe beträgt ca. 6000 K[0].",
+        "citations": [
+            "[0] ZMP_55853_XBO_1000_W_HSC_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was sind die elektrischen Spezifikationen der XBO 1000 W/HS OFR Lampe?",
+        "answer": "Die elektrischen Spezifikationen der XBO 1000 W/HS OFR Lampe lauten wie folgt:\n\n- **Nennstrom:** 50 A\n- **Stromsteuerbereich:** 30 - 55 A\n- **Nennleistung:** 1000 W\n- **Nennspannung:** 19,0 V\n\nWeitere nennenswerte Details zur Lebensdauer und Temperatur:\n- **Lebensdauer:** 2000 Stunden\n- **Maximale zulässige Umgebungstemperatur (an der Quetschung):** 230 °C[0].",
+        "citations": [
+            "[0] ZMP_55852_XBO_1000_W_HS_OFR.pdf"
+        ],
+        "language": "de"
+    },
+    {
+        "question": "Was ist die Nennleistung der XBO 1000 W/HS OFR Lampe?",
+        "answer": "Die Nennleistung der XBO 1000 W/HS OFR Lampe beträgt 1000 W[0].",
+        "citations": [
+            "[0] ZMP_55852_XBO_1000_W_HS_OFR.pdf"
+        ],
+        "language": "de"
+    }
+]
